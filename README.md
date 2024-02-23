@@ -1,1 +1,6 @@
-# BU_MSBA820_Unspervised_ML
+# Code Contribution Sheet
+Olivia : %
+Ethan : %
+Yaya : %
+Gaurangi : %
+JiaCheng : %
